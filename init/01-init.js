@@ -1,4 +1,3 @@
-\
 // 01-init.js
 // This script runs once on first container startup.
 // It creates the application database, user and a probe document.
